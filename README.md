@@ -2,8 +2,11 @@
 Ce site web intitulé Poly M'Angers est un site qui vous propose des recettes de plats qui selon les ingrédients dont vous disposez. 
 Les pricipales fonctionnalités sont :
 - Rechercher des recettes en :
+	
 	-Tapant 1 ou plusieurs ingrédients
+	
 	-Selectionnant le nombre maximal de recettes que vous voulez avoir
+	
      Vous pouvez également ajouter les recettes que vous aimez aux "favoris" en cochant le"coeur" sur chaque recette.
 
 -Ajouter vos propres recettes au site :
