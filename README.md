@@ -11,7 +11,7 @@ Les pricipales fonctionnalités sont :
 	
 Vous pouvez également noter les recettes que vous avez essayé en cochant le "coeur" sur chaque recette.
 
--Ajouter vos propres recettes au site :
+- Ajouter vos propres recettes au site :
 
         -En entrant les ingrédients nécessaires pour le plat.
 	
